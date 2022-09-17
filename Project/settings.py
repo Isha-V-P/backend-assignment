@@ -137,7 +137,7 @@ STATIC_URL = '/static/'
 #     os.path.join(BASE_DIR, "static"),
 # )
 
-STATIC_ROOT = os.path.join(BASE_DIR, "live-static-files", "static-root")
+#STATIC_ROOT = os.path.join(BASE_DIR, "live-static-files", "static-root")
 
 # Update database configuration with $DATABASE_URL.
 # import dj_database_url
